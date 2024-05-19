@@ -13,7 +13,7 @@ export default function Login() {
         </form>
       </div>
       <div className="mb-24">
-        <Link to="/login" className="text-white transition-all hover:underline">
+        <Link to="/signup" className="text-white transition-all hover:underline">
             Don&apos;t have an account? Join Us
         </Link>
       </div>
